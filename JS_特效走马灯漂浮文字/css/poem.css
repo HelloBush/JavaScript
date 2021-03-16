@@ -1,0 +1,18 @@
+
+#wrap_poem{
+	width:540px;
+	height:320px; 
+	font-size:15px;
+	overflow: hidden;
+    padding-top: 90px;
+    margin-left: 400px;
+	background-image: url("../images/bkm.jpg");
+	background-repeat: no-repeat;
+	background-position: bottom;
+	border-radius: 10px;
+	font-family:"楷体";
+	}
+	#wrap_poem marquee{
+		diplay:block;
+		width:100%;
+	}
